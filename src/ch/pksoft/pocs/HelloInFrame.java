@@ -8,7 +8,8 @@ public class HelloInFrame extends JFrame {
 	public HelloInFrame() {
 		JLabel label = new JLabel("this is my text");
 		this.add(label);
-		this.pack();	
+		this.setSize(200,  200); 
+//		this.pack();	
 	}
 	
 	public static void main(String[] args) {
