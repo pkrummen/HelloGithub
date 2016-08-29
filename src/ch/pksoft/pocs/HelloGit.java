@@ -1,7 +1,7 @@
 package ch.pksoft.pocs;
 
 /**
- * Endlich!!
+ * Endlich!! hmm, from remote
  */
 public class HelloGit {
 	public static void main(String[] args) {
